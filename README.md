@@ -7,5 +7,6 @@
 [Markdown Emojis](https://gist.github.com/rxaviers/7360908) :blush: <br>
 [BEM methodology](https://en.bem.info/methodology/) <br>
 
-
+### __Tools__
+[VS Code into](https://code.visualstudio.com/docs/getstarted/introvideos#VSCode)
 
