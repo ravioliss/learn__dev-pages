@@ -8,6 +8,13 @@
 [BEM methodology](https://en.bem.info/methodology/) <br>
 
 ### __Learning Tools pathways__
+[WebStorm Docs](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)
 [VS Code into](https://code.visualstudio.com/docs/getstarted/introvideos#VSCode) <br>
-[GitHub Fundation Cert](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+[GitHub Fundation Cert](https://learn.microsoft.com/en-us/collections/o1njfe825p602p) <br>
+
+### __Design Systems__
+[Design Library](https://uiverse.io/)
+[Material Google Design System] (https://m3.material.io/)
+[Apple Design System](https://developer.apple.com/design/)
+[Vercel Design System](https://basis.vercel.app/typography/)
 
