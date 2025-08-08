@@ -13,8 +13,8 @@
 [GitHub Fundation Cert](https://learn.microsoft.com/en-us/collections/o1njfe825p602p) <br>
 
 ### __Design Systems__
-[Design Library](https://uiverse.io/)
-[Material Google Design System] (https://m3.material.io/)
-[Apple Design System](https://developer.apple.com/design/)
+[Design Library](https://uiverse.io/) <br>
+[Material Google Design System](https://m3.material.io/)<br>
+[Apple Design System](https://developer.apple.com/design/)<br>
 [Vercel Design System](https://basis.vercel.app/typography/)
 
