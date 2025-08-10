@@ -19,5 +19,9 @@
 [Vercel Design System](https://basis.vercel.app/typography/) <br>
 
 ### __Seguridad__
-[Free TLS](https://letsencrypt.org/es/)
+[Free TLS](https://letsencrypt.org/es/)<br>
+
+### __Licencias abiertas__
+[Open Source](https://opensource.org/)<br>
+[Creative Commons](https://creativecommons.org/)
 
